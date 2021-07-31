@@ -10,7 +10,10 @@ Feel free to contact me:
 <a href = "mailto: kartiksoni2209@gmail.com">
   <img align="left" alt="Kartik's Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
 </a>
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=kartikson1.kartikson1) -->
+<!-- 
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=kartikson1.kartikson1) -->
+<br />
 
 **Few of my favorite technologies and frameworks that I've worked on:**  
 
