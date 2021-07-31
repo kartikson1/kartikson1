@@ -2,8 +2,8 @@
 
 Hey there! I'm Kartik, a final year CS undergrad, a passionate self-taught full-stack developer and an undergraduate researcher. Welcome to my humble abode on GitHub, I hope you find what you're looking for! 
 
-<br />
 Feel free to contact me:
+<br />
 <a href="https://www.linkedin.com/in/kartikson1/">
   <img align="left" alt="Kartik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
