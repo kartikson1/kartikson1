@@ -2,17 +2,6 @@
 
 Hey there! I'm Kartik, MS in Computer Science student at NC State University, having finished my BS in CS from Manipal University. I'm a passionate self-taught full-stack developer, and have worked at multiple startups as a full stack web developer. Welcome to my humble abode on GitHub, I hope you find what you're looking for! 
 
-Feel free to contact me:
-<br />
-<a href="https://www.linkedin.com/in/kartikson1/">
-  <img align="left" alt="Kartik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href = "mailto: kartiksoni2209@gmail.com">
-  Email
-</a>
-<!-- 
-<br />
-![](https://visitor-badge.glitch.me/badge?page_id=kartikson1.kartikson1) -->
 <br />
 
 **Few of my favorite technologies and frameworks that I've worked on:**  
@@ -28,3 +17,15 @@ Feel free to contact me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+Feel free to contact me:
+<br />
+<a href="https://www.linkedin.com/in/kartikson1/">
+  <img align="left" alt="Kartik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href = "mailto: kartiksoni2209@gmail.com">
+  Email
+</a>
+<!-- 
+<br />
+![](https://visitor-badge.glitch.me/badge?page_id=kartikson1.kartikson1) -->
