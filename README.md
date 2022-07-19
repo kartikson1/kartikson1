@@ -8,7 +8,7 @@ Feel free to contact me:
   <img align="left" alt="Kartik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href = "mailto: kartiksoni2209@gmail.com">
-  <img align="left" alt="Kartik's Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
+  Email
 </a>
 <!-- 
 <br />
