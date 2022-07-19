@@ -22,6 +22,7 @@ Hey there! I'm Kartik, MS in Computer Science student at NC State University, ha
 
 Feel free to contact me:
 <br />
+
 <a href="https://www.linkedin.com/in/kartikson1/">
   <img align="left" alt="Kartik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
