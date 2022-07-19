@@ -1,6 +1,6 @@
 ### Ahoy! Thanks for visiting my corner of GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hey there! I'm Kartik, a final year CS undergrad, a passionate self-taught full-stack developer and an undergraduate researcher. Welcome to my humble abode on GitHub, I hope you find what you're looking for! 
+Hey there! I'm Kartik, MS in Computer Science student, having finished my BS in CS. I'm a passionate self-taught full-stack developer, and have worked at multiple startups as a full stack web developer. Welcome to my humble abode on GitHub, I hope you find what you're looking for! 
 
 Feel free to contact me:
 <br />
