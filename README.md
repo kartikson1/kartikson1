@@ -59,11 +59,11 @@ Hey folks! I’m all about turning coffee into code. As the lead frontend dev at
 
 ---
 
-📬 **Let's Connect**
+🤝 **Connect With Me**
 
-Drop me a line at 📧 `ksoni@ncsu.edu` or connect with me on LinkedIn. Whether it’s code, tech, or just to chat – I’m here for it.
+Got a question or just want to chat about tech? Reach out to me anytime!
 
-[![Linkedin Badge](https://img.shields.io/badge/-kartikson1-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikson1/)](https://www.linkedin.com/in/kartikson1/)
+[![Linkedin Badge](https://img.shields.io/badge/-Connect_with_Kartik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kartikson1/) || 📧 [ksoni@ncsu.edu](mailto:ksoni@ncsu.edu)
 
 ⚙️ **Workflow Philosophy**
 
