@@ -1,4 +1,4 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> You've reached a Frontend Lead & Full-Stack Engineer
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Kartik - Frontend Lead & Full-Stack Engineer
 
 ---
 
