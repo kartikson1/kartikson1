@@ -1,36 +1,59 @@
-### Ahoy! Thanks for visiting my corner of GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Kartik Soni - Frontend Maestro & Full-Stack Engineer
 
-Hey there! I'm Kartik, MS in Computer Science student at NC State University, having finished my BS in CS from Manipal University. I'm a passionate self-taught developer, and have worked at multiple startups as a full stack dev. Welcome to my humble abode on GitHub, I hope you find what you're looking for! 
+---
 
-<br />
+👨‍💻 **Pioneering Frontend Innovation at NC State**
 
-**Few of my favorite technologies and frameworks that I've worked on:**  
+Greetings! I'm Kartik, the lead orchestrator of front-end symphonies at NC State University, where I elevate user experiences with the harmonious blend of React.js and modern web tech. I'm passionate about bringing academic excellence to the pragmatic demands of software engineering.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript </code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node</code>
-<code><img height="20" src="https://camo.githubusercontent.com/c457309037aabdce151cc0e197d6db98234a31636ef41f2cc1c339832fe20de3/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6c6f676f732f6e6578746a732d6c6f676f2e706e67"> NextJs</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> Django</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"> Redux</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript</code>
+🚀 **Tech Adventures in Startups & Big Tech**
 
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/mongodb_original_wordmark_logo_icon_146425.png"> MongoDB</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> MySQL</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> Java</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
+My journey spans both the agile world of startups and the structured realm of big tech. Armed with a full-stack arsenal and cloud-computing prowess, I aim to craft scalable, resilient architectures that stand the test of time and usage.
 
-<br />
+📚 **Educational Odyssey**
 
-Get in touch with me!
-<br />
+- Mastering the art of code at **North Carolina State University** (2022-2024)
+- Forged my tech foundation at **Manipal University** (2018-2022)
 
-<a href="https://www.linkedin.com/in/kartikson1/">
-  <img align="left" alt="Kartik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href = "mailto: kartiksoni2209@gmail.com">
-  Email
-</a>
-<!-- 
-<br />
-![](https://visitor-badge.glitch.me/badge?page_id=kartikson1.kartikson1) -->
+💼 **Professional Highlights**
+
+- Reducing code duplication by 40% with custom React hooks
+- Spearheading a 25% surge in user engagement through front-end leadership
+- Facilitating global research through the development of **[arabicsearch.org](#)**
+- Forging essential features for retail giants at Toshiba
+- Delving into runtime verification research with Cornell and NC State
+- Boosting e-commerce performance and pioneering full-stack solutions at ToppersNotes
+- Building intricate dashboards and UIs at Airveda Technologies
+
+🌐 **Signature Projects**
+
+- Enhancing Nutanix Database Service with MongoDB support
+- Creating an immersive Alexa-based game using AWS and Node.js
+- Developing a student auctioning portal with React.js and Flask
+- Publishing research in international conferences and journals
+- Optimizing cloud server task scheduling with metaheuristic algorithms
+
+🔧 **Tech Stack Showcase**
+
+- **Frontend**: React.js, Redux, Next.js, TypeScript
+- **Backend**: Node.js, Express, Django, Spring Boot
+- **Database**: MySQL, MongoDB, DynamoDB
+- **DevOps**: Docker, Kubernetes, AWS
+
+🏆 **Extracurricular Excellence**
+
+- Front-runner in 7+ hackathons, reaching the final stages multiple times
+- Grand Finalist in a national level hackathon organized by GITAM
+- Pioneered the digital presence for Manipal’s Journalism school and Rotaract club
+
+---
+
+📬 **Let's Connect**
+
+I'm always on the lookout for creative collaboration and conversation.
+
+[![Linkedin Badge](https://img.shields.io/badge/-kartikson1-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikson1/)](https://www.linkedin.com/in/kartikson1/)
+
+---
+
+_Crafting code that speaks, connects, and transforms. Let's build the digital future, one line at a time._
